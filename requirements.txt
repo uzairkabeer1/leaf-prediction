@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 Flask
 Pillow
 torch==1.9.0+cpu
