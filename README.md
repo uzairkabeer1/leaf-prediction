@@ -8,6 +8,6 @@ As the dataset is not very diverse it will not be able to fully predict the unse
 # Run
 In order to run this on local host you can first download the packages listed in `Requirements.txt`
 Then
-`python api.py`
+`python app.py`
 
 You can sucessfully run the flask website and predict the images.
