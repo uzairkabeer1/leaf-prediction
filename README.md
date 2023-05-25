@@ -10,4 +10,4 @@ In order to run this on local host you can first download the packages listed in
 Then
 `python app.py`
 
-You can sucessfully run the flask website and predict the images.
+You can sucessfully run the flask website and predict the images. Use the demo images in the test folder for checking also you can user internet images with only one leaf in image not any other thing.
