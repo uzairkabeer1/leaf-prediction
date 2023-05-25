@@ -50,7 +50,7 @@ def predict_user_image(image_path, model):
     plant, condition = out.split('_')
 
     plant_folders = {
-        'Mango, XYZ': 'P0',
+        'Mango': 'P0',
         'Guava':'P3',
         'Jamun':'P5',
         'Jatropha':'P6',
